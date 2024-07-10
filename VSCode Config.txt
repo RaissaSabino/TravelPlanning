@@ -1,0 +1,15 @@
+Extensions
+
+Tailwind CSS IntelliSense
+PostCSS Language Suport
+
+settings.json
+ 
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+
+
